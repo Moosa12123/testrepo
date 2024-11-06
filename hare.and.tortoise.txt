@@ -1,1 +1,4 @@
 hare.and.tortoise.txt
+hello im a hare
+hi im a tortoise
+lets be friends
